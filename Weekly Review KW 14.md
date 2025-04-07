@@ -1,6 +1,6 @@
 # Weekly Review  KW 14 
 
-## Topics Covered
+## Task and Review
 
 - Trial day (Schnuppertag)
 - GitHub basics and workflow
