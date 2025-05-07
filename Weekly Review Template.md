@@ -2,16 +2,15 @@
 
 ## Tasks and Progress
 
-- ****
-- ****
-- ****
----
+- 
+- 
+- 
+
 
 ## Weekly Summary
 
 
 
----
 
 ## Problems and Assistance
 
@@ -22,22 +21,18 @@
 
 - **Assistance needed for the problems:**
 
-- ****
-- ****
+- 
+- 
 
----
 
 ## Reflection
 
 
 
----
-
 ## Outlook for Next Week
 
 - 
 
----
 
 ## Miscellaneous
 
