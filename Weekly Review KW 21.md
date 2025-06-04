@@ -2,10 +2,10 @@
 
 ## Tasks and Progress
 
-- ESXi Tasks
-- Documentation
-- Ansible
-- Github
+- **ESXi Tasks**
+- **Documentation**
+- **Ansible**
+- **Github**
 
 
 ## Weekly Summary

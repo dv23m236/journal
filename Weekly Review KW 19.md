@@ -2,11 +2,11 @@
 
 ## Tasks and Progress
 
-- GPU Stack Server moved
-- Practical with Ansible
-- SSD & HDD removed/Installed
-- GPU STack Server set up
-- Ticket 
+- **GPU Stack Server moved**
+- **Practical with Ansible**
+- **SSD & HDD removed/Installed**
+- **GPU STack Server set up**
+- **Ticket**
 
 
 ## Weekly Summary

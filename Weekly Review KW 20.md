@@ -2,9 +2,9 @@
 
 ## Tasks and Progress
 
-- Install Server
-- Documentation SYS
-- Github Ansible Project
+- **Install Server**
+- **Documentation SYS**
+- **Github Ansible Project**
 
 
 ## Weekly Summary
